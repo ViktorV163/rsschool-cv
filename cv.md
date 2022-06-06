@@ -13,7 +13,6 @@
 * ** Discord: ** ViktorV163#7546
 * ** Git: ** [ViktorV163] (https://github.com/ViktorV163)
 
-
 ****
 
 ## Обо мне
